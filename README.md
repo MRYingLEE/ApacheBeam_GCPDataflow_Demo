@@ -41,6 +41,12 @@ The Beam environment can be set up by following this tutorial (https://console.c
 ## The streaming source
 The stream source can be simulated by a Google Dataflow template, Text Files on Cloud Storage to Pub/Sub (Stream) (https://cloud.google.com/dataflow/docs/guides/templates/provided-streaming#gcstexttocloudpubsubstream ) 
 
+## Command to run
+
+After configuration, such as streamingMode, topic name, access control, just use the following command to run:
+
+**python3 Streaming.py**
+
 # Things to consider
 
 ## How would you deal with data which arrive out of order?
