@@ -1,5 +1,5 @@
 # ApacheBeam_GCPDataflow_Demo
-This batch and streaming data processing demo is tested on GCP Dataflow, a Apache Beam Environment.
+This batch and streaming data processing demo is tested on GCP Dataflow, an Apache Beam Environment.
 
 This demo is intendedly to show the procedure of a Apache Beam Developing instead of specific data processing logic. Actually the code was digested from a real project. So that the core processing logic has been intendedly deleted in order to avoid business information leak.
 
